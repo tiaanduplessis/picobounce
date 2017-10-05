@@ -54,6 +54,8 @@
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/picobounce.svg)](https://greenkeeper.io/)
+
 ```sh
 $ npm install picobounce
 # OR
